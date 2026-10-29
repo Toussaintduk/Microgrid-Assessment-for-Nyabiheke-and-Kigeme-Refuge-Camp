@@ -1,4 +1,4 @@
-#: Microgrid Assessment Case Study
+# Microgrid Assessment Case Study
 
 ## Overview
 
