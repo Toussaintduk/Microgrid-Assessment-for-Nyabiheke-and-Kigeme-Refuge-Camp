@@ -1,0 +1,52 @@
+[
+  {
+    "file": "Victron_GEL_AGM_datasheet.pdf",
+    "sha256": "0581f9e3039e42280903e1b0bceeaa39feb1bf968a990cb7e0f0f9e475e0981b",
+    "bytes": 1028647
+  },
+  {
+    "file": "Microgrid - Synopsis of Checksheets and Logbooks.pdf",
+    "sha256": "2e6f464c8240875637ee797c9e2982b3d3f68d2a8308590f6ecbf4636da6c12f",
+    "bytes": 135912
+  },
+  {
+    "file": "Nixon_et_al_2021.pdf",
+    "sha256": "79cb987d32d6d772108577e06727e08a016c8aa4e92b0c3bfe9982394e0ff7e5",
+    "bytes": 2994079
+  },
+  {
+    "file": "SOURCE_README.md",
+    "sha256": "3da3e48f02f60af9aa68925348a5a0d125652c6b1cdcc2459972ebdcb5a6b39c",
+    "bytes": 3453
+  },
+  {
+    "file": "Hall - Synopsis of Checksheets and Logbooks.pdf",
+    "sha256": "036fd3e1d97a70446400d92c5cca630a3f94d27e0ea6a85cfeb543c29f00c49a",
+    "bytes": 126098
+  },
+  {
+    "file": "solar/request.json",
+    "sha256": "c5b68349997961a699745df4ce818ae2c5457ac851bc95fc8b85aab12e59d20a",
+    "bytes": 395
+  },
+  {
+    "file": "solar/Hall_PVGIS6_north10_hourly.json",
+    "sha256": "7325589816a45327011805e56b96b811660bd2ce5b2746f9914e960d19ce0328",
+    "bytes": 878324
+  },
+  {
+    "file": "solar/Hall_PVGIS6_north10_summary_check.json",
+    "sha256": "fbbb7cffba3be12c0ffa88ce3bcfb95cf9257e5e5bb8fdf5e0b629ccf4616560",
+    "bytes": 807
+  },
+  {
+    "file": "Microgrid/System_data.csv",
+    "sha256": "3516a3621667ec17ac1d7469782e2e8fe510f0e005925cd6d5c5e3fceb3aaca8",
+    "bytes": 17579070
+  },
+  {
+    "file": "Hall/System_data.csv",
+    "sha256": "a8db4bdbfdff4aadd56cb222e6494bae9977c1b391148b8345ad19ec03cd0d36",
+    "bytes": 1791548
+  }
+]

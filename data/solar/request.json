@@ -1,0 +1,4 @@
+{
+  "file": "Hall_PVGIS6_north10_hourly.json",
+  "url": "https://photovoltaic-geographic-information-system.ec.europa.eu/api/v6/performance/broadband?latitude=-1.59504&longitude=30.25921&start_time=2019-07-19T00%3A00%3A00&end_time=2020-04-01T23%3A00%3A00&surface_tilt=10&surface_orientation=0&system_efficiency=1&photovoltaic_module=cSi%3AFree+standing&analysis=None&verbose=9&peak-power=2.04"
+}
